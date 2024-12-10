@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97429872-baff-4445-8abc-03dac2ca889f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/presentation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheesecake.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crab.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crosby.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dance.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helios.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/me.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pens.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pie.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theater.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wickedone.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wickedtwo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writing.gif" afterDir="false" />
-    </list>
+    <list default="true" id="97429872-baff-4445-8abc-03dac2ca889f" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732556217859</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1733853060498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733853060498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
